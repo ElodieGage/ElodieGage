@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**ElodieGage/ElodieGage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi I'm Elodie 👋
 
 Here are some ideas to get you started:
 
