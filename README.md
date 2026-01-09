@@ -1,6 +1,6 @@
 ##  :dizzy: About me 
 
-I'm currently studying an MSc Bioinformatics and set to graduate in December 2026.
+I'm currently studying an MSc Bioinformatics and set to graduate in December 2026. :mortar_board:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
