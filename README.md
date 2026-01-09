@@ -2,6 +2,9 @@
 
 I'm currently studying an MSc Bioinformatics and set to graduate in December 2026. :mortar_board:
 
+  <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1273856807/vector/gray-cat-animal-kitten-kitty-waving-hand-cute-cartoon-funny-kawaii-character-childish-baby.jpg?s=1024x1024&w=is&k=20&c=hwfLwUd35DrZ7QYKLvurZe5fVkzc8hxn2sa9MCPSSL4="> 
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
