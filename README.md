@@ -2,9 +2,6 @@
 
 I'm currently studying an MSc Bioinformatics and set to graduate in December 2026. :mortar_board:
 
-  <img align="right" alt="Coding" width="400" src=""> 
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
