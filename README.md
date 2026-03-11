@@ -17,7 +17,7 @@ Python (Pandas, NumPy, scikit-learn)
 <a href="https://www.r-project.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
 </a>
-R (Tidyverse, limma, fgsea, ggplot20
+R (Tidyverse, limma, fgsea, ggplot2)
 </p>
 
 <p>
