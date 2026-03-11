@@ -1,37 +1,28 @@
 ##  :wave: Hi, I'm Elodie 
 
-:dna: MSc Bioinformatics student 
-:microscope: Background in Biochemistry and Microbiology
-:computer: Interested in genomics and machine learning 
+:dna: MSc Bioinformatics student <br>
+:microscope: Background in Biochemistry and Microbiology <br>
+:computer: Interested in genomics and machine learning <br>
 
 <h4 align="left">Languages and Tools:</h4>
 
-<table>
-<tr>
-<td>
+<p>
 <a href="https://www.python.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </a>
-</td>
-<td>Python </td>
-</tr>
+Python (Pandas, NumPy, scikit-learn)
+</p>
 
-<tr>
-<td>
+<p>
 <a href="https://www.r-project.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
 </a>
-</td>
-<td>R</td>
-</tr>
+R (Tidyverse, limma, fgsea, ggplot20
+</p>
 
-<tr>
-<td>
+<p>
 <a href="https://www.linux.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
-</td>
-<td>Linux</td>
-</tr>
-
-</table>
+Linux, Bash
+</p>
